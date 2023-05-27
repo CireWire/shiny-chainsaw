@@ -23,7 +23,7 @@ Kai Network is a video player application built with Python and Pyglet. It allow
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/kai-network.git
+   git clone https://github.com/CireWire/shiny-chainsaw.git
    ```
 
 2. Navigate to the project directory:
